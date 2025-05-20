@@ -32,6 +32,7 @@ A full-stack social media platform where Users can create posts and blogs, follo
 - Tailwind CSS
 - React Router
 - Axios
+  
 
 ### 🌐 Backend
 
@@ -42,6 +43,9 @@ A full-stack social media platform where Users can create posts and blogs, follo
 - Cloudinary (for image uploads)
 
 ---
+## Collaboration
+
+This project is a collaborative effort based on the original work by [@neyav-1729](https://github.com/neyav-1729) in [NSUT_Connect](https://github.com/neyav-1729/NSUT_Connect).
 
 
 
